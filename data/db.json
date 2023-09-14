@@ -1,0 +1,44 @@
+{
+  "gallery": [
+    {
+      "name": "deep earth",
+      "mobile_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694723122/workshop-3/image-deep-earth_ur4tdg.jpg",
+      "desktop_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694722066/workshop-3/image-deep-earth-desktop_yxnxsf.jpg"
+    },
+    {
+      "name": "night arcade",
+      "mobile_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694722065/workshop-3/image-night-arcade-desktop_nibyo8.jpg",
+      "desktop_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694723128/workshop-3/image-night-arcade_mmclgt.jpg"
+    },
+    {
+      "name": "soccer team vr",
+      "mobile_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694722065/workshop-3/image-soccer-team-desktop_ib9kce.jpg",
+      "desktop_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694723129/workshop-3/image-soccer-team_utfoym.jpg"
+    },
+    {
+      "name": "the grid",
+      "mobile_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694722062/workshop-3/image-grid-desktop_jw3dgi.jpg",
+      "desktop_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694723125/workshop-3/image-grid_uu19qb.jpg"
+    },
+    {
+      "name": "from up above",
+      "mobile_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694722062/workshop-3/image-from-above_svtobv.jpg",
+      "desktop_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694723124/workshop-3/image-from-above_uivdna.jpg"
+    },
+    {
+      "name": "pocket borealis",
+      "mobile_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694722065/workshop-3/image-pocket-borealis-desktop_w5wqu4.jpg",
+      "desktop_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694723127/workshop-3/image-pocket-borealis_k5ibhe.jpg"
+    },
+    {
+      "name": "the curiosity",
+      "mobile_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694722065/workshop-3/image-curiosity-desktop_ajhok3.jpg",
+      "desktop_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694723122/workshop-3/image-curiosity_ndvqvx.jpg"
+    },
+    {
+      "name": "make it fisheye",
+      "mobile_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694722062/workshop-3/image-fisheye-desktop_t72tda.jpg",
+      "desktop_image": "https://res.cloudinary.com/dkd5jyxby/image/upload/v1694723123/workshop-3/image-fisheye_n35bjh.jpg"
+    }
+  ]
+}
